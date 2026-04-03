@@ -8,7 +8,9 @@
       "Bash(flutter run:*)",
       "Bash(timeout:*)",
       "Bash(cat:*)",
-      "Bash(dir \"C:\\\\Users\\\\ADMIN\\\\OneDrive\\\\Documents\\\\FlutterProjects\\\\game_lobby\")"
+      "Bash(dir \"C:\\\\Users\\\\ADMIN\\\\OneDrive\\\\Documents\\\\FlutterProjects\\\\game_lobby\")",
+      "Bash(flutter build:*)",
+      "Bash(git add:*)"
     ]
   }
 }
